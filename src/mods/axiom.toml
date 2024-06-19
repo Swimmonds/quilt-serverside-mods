@@ -1,0 +1,5 @@
+name = 'Axiom'
+links.modrinth = 'https://modrinth.com/mod/axiom'
+categories = [
+	'building',
+]
